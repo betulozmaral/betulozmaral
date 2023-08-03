@@ -9,7 +9,7 @@
 
 🌱 I'm constantly learning and eager to collaborate on frontend projects that challenge and inspire me.
 
-📫 Let's connect! Feel free to reach out to me via email at bozmaral@gmail.com or connect with me on instagram.com/betulzmrl/. I'm open to discussions, project ideas, and mentoring opportunities.
+📫 Let's connect! Feel free to reach out to me via email at bozmaral@gmail.com or connect with me on https://www.instagram.com/betulzmrl/. I'm open to discussions, project ideas, and mentoring opportunities.
 
 🚀 My goal is to combine my computer engineering knowledge with my passion for frontend development and UI design to create innovative solutions.
 
