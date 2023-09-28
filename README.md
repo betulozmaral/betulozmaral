@@ -3,7 +3,7 @@
 
 🎓 I'm Betül, a senior computer engineering student with a keen interest in frontend development and UI design. I'm passionate about creating and implementing user-friendly and visually appealing interfaces that make a positive impact on people's lives.
 
-💻 Currently, I'm honing my skills by working on school projects and taking part in coding challenges. I like experimenting with technologies like Svelte and React Js, and I'm excited to explore the ever-evolving world of web development.
+💻 Currently, I'm honing my skills by working on school projects. I like experimenting with technologies like Svelte and React Js, and I'm excited to explore the ever-evolving world of web development.
 
 🎨 When I'm not coding, you can find me wandering through art museums and galleries, appreciating the diverse perspectives and emotions that art evokes.
 
